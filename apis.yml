@@ -1,0 +1,83 @@
+aid: muon-space
+name: Muon Space
+description: >-
+  Muon Space is a Mountain View, California-based end-to-end space systems
+  company that designs, builds, and operates mission-optimized satellite
+  constellations to deliver Earth Intelligence and enable real-time compute
+  and decision-making in space. Founded in 2021 by veterans of Skybox, NASA,
+  and SpaceX, the company's core product is Muon Halo, an integrated
+  technology stack composed of MuSim (constellation simulation and digital
+  twin), MuOS (IP-based software-defined network middleware connecting
+  space, ground, and cloud), MuCore (software-configurable instrument core),
+  Condor (modular Condor-M and Condor-XL spacecraft platforms), and MuDash
+  (cloud-based tasking, scheduling, and operations dashboard). Muon Space's
+  flagship public mission is FireSat, a purpose-built wildfire detection and
+  monitoring constellation developed with the Earth Fire Alliance, Google
+  Research, and the Gordon & Betty Moore Foundation; FireSat carries a
+  high-dynamic-range multispectral IR instrument capable of detecting 5x5
+  meter fires across a 1,500 km swath with a 50 m nadir ground sample
+  distance, with revisit times targeted to twenty minutes once the full
+  constellation is operational. The Protoflight satellite produced its
+  first-light imagery in June 2025, with the first block of three additional
+  satellites launching in 2026 and full operational capacity targeted for
+  2030. Other Muon Space missions support the U.S. Air Force and U.S. Space
+  Force for next-generation weather monitoring, Hydrosat for thermal
+  geospatial intelligence in climate and agriculture, and global security
+  applications including missile-defense architecture. Muon Space's revenue
+  model is mission contracting, spacecraft and constellation delivery, and
+  hosted data services; there is no public developer API, SDK, or
+  open-source release of the Halo platform or FireSat data feed.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Space
+  - Earth Observation
+  - Satellite Constellations
+  - Remote Sensing
+  - Wildfire Detection
+  - FireSat
+  - Halo Platform
+  - Infrared Imaging
+  - Earth Intelligence
+  - Climate
+  - Defense
+  - Aerospace
+url: https://raw.githubusercontent.com/api-evangelist/muon-space/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.muonspace.com
+  - type: Product
+    url: https://www.muonspace.com/constellation-stack
+  - type: Methodology
+    url: https://www.muonspace.com/methodology
+  - type: Customers
+    url: https://www.muonspace.com/customers
+  - type: RemoteSensing
+    url: https://www.muonspace.com/remote-sensing
+  - type: FireSat
+    url: https://www.muonspace.com/press/muon-space-and-earth-fire-alliance-unveil-firesat-constellation-a-revolutionary-space-mission-to-transform-global-wildfire-response
+  - type: EarthFireAlliance
+    url: https://earthfirealliance.org
+  - type: About
+    url: https://www.muonspace.com/about
+  - type: Newsroom
+    url: https://www.muonspace.com/newsroom
+  - type: Careers
+    url: https://www.muonspace.com/careers
+  - type: PrivacyPolicy
+    url: https://www.muonspace.com/privacy-policy
+  - type: GitHubOrganization
+    url: https://github.com/muon-space
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/muon-space
+  - type: Twitter
+    url: https://twitter.com/MuonSpaceInc
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
